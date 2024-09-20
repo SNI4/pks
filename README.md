@@ -1,16 +1,8 @@
-# hello_flutter
+## Семенов Артемий Дмитриевич ЭФБО-07-22 ##
+#### Программирование корпоративных систем, практика №2. ####
+___
+# Форма регистрации в веб-приложении #
+<img width="959" alt="reg_chrome" src="https://github.com/user-attachments/assets/410bc547-9a36-4343-9371-fe5653160ef9">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Форма регистрации в android-эмуляторе #
+<img width="959" alt="emul_reg" src="https://github.com/user-attachments/assets/c5f7dafc-ecd3-495d-8267-b4bdaa2308a3">
