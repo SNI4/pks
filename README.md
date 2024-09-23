@@ -1,16 +1,10 @@
-# hello_flutter
+## Семенов Артемий Дмитриевич ЭФБО-07-22
+Отчет о создании онлайн-магазина на Flutter
+____
+## 1. Запуск приложения в веб-эмуляторе
+<img width="959" alt="shop_chrome" src="https://github.com/user-attachments/assets/67338abf-94fb-4180-8e15-e5145258b582">
+<img width="959" alt="shop_sneakers_chrome" src="https://github.com/user-attachments/assets/f48a83f9-9529-4fce-9d9b-c234c520db82">
 
-A new Flutter project.
+## 2.Запуск приложения в Android-эмуляторе
+<img width="959" alt="shop_emul" src="https://github.com/user-attachments/assets/1a0afb93-f5b8-4228-b4cd-5866c5a95633">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
