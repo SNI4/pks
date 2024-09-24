@@ -1,16 +1,14 @@
-# hello_flutter
+## Семенов Артемий Дмитриевич ЭФБО-07-22
+Отчет о добавлении возможности создания карточки товара в приложении Flutter
+____
+## 1. Добавление карточки
+<img width="959" alt="shop_add_chrome" src="https://github.com/user-attachments/assets/5343a6d1-1c37-4047-9128-b311fa026a5a">
 
-A new Flutter project.
+## 2. Карточка появилась в списке
+<img width="959" alt="shop_added_chrome" src="https://github.com/user-attachments/assets/51b51343-5eb2-448a-a725-02c6a559ef7f">
 
-## Getting Started
+## 3. Просмотр карточки
+<img width="959" alt="shop_card_chrome" src="https://github.com/user-attachments/assets/4a6bfb0e-75f0-4456-9828-0337c4d05560">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
